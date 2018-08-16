@@ -1,0 +1,6 @@
+hash: cf399fdb1ab42bf488f4c29277c1a4bd6ba02ffa73e631f9d71d001373246f0e
+updated: 2018-08-15T13:53:22.440327+08:00
+imports:
+- name: go.uber.org/zap
+  version: ff33455a0e382e8a81d14dd7c922020b6b5e7982
+testImports: []
